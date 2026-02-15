@@ -20,3 +20,4 @@ Binary text classifier that categorizes news articles as **Sports** or **Politic
    ```bash
    git clone https://github.com/yourusername/repository-name.git
    cd repository-name
+   python main.py
